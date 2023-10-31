@@ -1,0 +1,14 @@
+#masthead, #footer{
+    background-color: #ffb3ff;
+    font-family: 'Seaweed Script', cursive;
+}
+
+    #Madeof { background-color: #fb9bb7;}
+
+    h1,h2{font-family: 'Handlee', cursive;
+    color:#FF5B22;}
+
+    h3{color: black;
+        font-family: 'Handlee', cursive;}
+    
+    p,nav {font-family: 'Mooli', sans-serif;}
